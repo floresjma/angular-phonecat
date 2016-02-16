@@ -1,0 +1,6 @@
+{
+  "cwd": "..",
+  "directory": "app/bower_components",
+  "proxy":"http://http.proxy.fmr.com:8000/",
+  "https-proxy":"http://http.proxy.fmr.com:8000/"
+}
